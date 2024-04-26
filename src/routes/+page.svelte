@@ -4,7 +4,7 @@
 </svelte:head>
 
 <div class="text-column">
-	<h1>About SvelteKit</h1>
+	<h1>About SvelteKit!!</h1>
 
 	<p>
 		This is a <a href="https://kit.svelte.dev" target="_blank">SvelteKit</a> app. You can make your own
